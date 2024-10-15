@@ -13,7 +13,7 @@
 ## 🏆Awards
 - `2020.09` 여신금융협회 서포크레딧 신용홍보단 우수상
 - `2020.12` 통계교육 재능기부단 우수상
-- `2024.08` 제 12회 산업통상자원부 공공데이터 활용 아이디어 공모전 최우수상(
+- `2024.08` 제 12회 산업통상자원부 공공데이터 활용 아이디어 공모전 최우수상
 
 ## 🛠️Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=Latex&logoColor=white"/>
