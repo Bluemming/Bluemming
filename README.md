@@ -16,7 +16,8 @@
 - `2024.08` 제 12회 산업통상자원부 공공데이터 활용 아이디어 공모전 최우수상
 
 ## 🛠️Skills
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=Latex&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/SAS-428524?style=flat&logo=googlechrome&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=Latex&logoColor=white"/>
+
 
 ## 💥Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBluemming&count_bg=%23007BFF&title_bg=%23AAA7A7&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
