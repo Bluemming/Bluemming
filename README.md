@@ -1,8 +1,7 @@
 ## 🎓Education
-- 중앙대학교 졸업
-  - 경제학부 주전공
-  - 응용통계학과 복수전공
-- 고려대학교 통계학과 석사과정 졸업예정
+- B.S in Economics, Chungang University
+- B.S in Applied Statistics, Chungang University
+- M.S in Statistics, Korea University
 
 ## 👩🏻‍💻Experience
 - 2019.05 – 2019.07 Ja Korea 대학생 경제교육봉사단 26기
